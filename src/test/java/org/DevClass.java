@@ -6,7 +6,7 @@ public class DevClass {
 	
 	@Test
 	public void testName() throws Exception {
-		System.out.println("Running Development Project");//test
+		System.out.println("Running Development Project");//test1
 		//assertTrue(false);
 	}
 
